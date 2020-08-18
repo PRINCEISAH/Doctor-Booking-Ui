@@ -6,6 +6,8 @@ import 'package:flutter_svg/flutter_svg.dart';
 class Search extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    Size size = MediaQuery.of(context).size;
+
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 30),
       child: Row(

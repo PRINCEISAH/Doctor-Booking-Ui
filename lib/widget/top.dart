@@ -4,6 +4,7 @@ import 'package:flutter_svg/svg.dart';
 class TopSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    Size size = MediaQuery.of(context).size;
     return Padding(
       padding: const EdgeInsets.only(left: 30, right: 33),
       child: Row(

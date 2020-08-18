@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const BightGery = Color(0xff649D66);
+  static const BightGery = Color.fromRGBO(100, 157, 102, 0.16);
   static const BlackColor = Color(0xff000000);
   static const BackGroundColor = Color(0xffE5E5E5);
   static const TextFiledBackgoundColor = Color(0xffE9F2EA);

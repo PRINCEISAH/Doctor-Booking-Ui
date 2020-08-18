@@ -1,13 +1,10 @@
-import 'dart:html';
-
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-class Colors {
+class AppColors {
   static const BightGery = Color(0xff649D66);
   static const BlackColor = Color(0xff000000);
   static const BackGroundColor = Color(0xffE5E5E5);
-  static const TextFiledBackroundColor = Color(0xffE9F2EA);
+  static const TextFiledBackgoundColor = Color(0xffE9F2EA);
   static const BoldTextColor = Color(0xff292E2C);
   static const DeepGeryColor = Color(0xff06623B);
   static const NotSelectedColor = Color(0xff34413B);

@@ -32,7 +32,7 @@ class Search extends StatelessWidget {
             height: 48,
             width: 48,
             decoration: BoxDecoration(
-                color: AppColors.BightGery,
+                color: AppColors.green,
                 borderRadius: BorderRadius.circular(11)),
             child: SvgPicture.asset(
               'images/filter.svg',
